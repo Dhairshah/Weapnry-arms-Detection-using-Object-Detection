@@ -34,15 +34,15 @@
 # Screen Shots
 <div>
 <p float="left">
-  <img src="img/1.png"/>
-  <img src="img/2.png"/> 
+  <img src="img/11.png"/>
+  <img src="img/22.png"/> 
 </p>
 </div>
 
 <div>
 <p float="left">
-  <img src="img/3.png"/>
-  <img src="img/4.png"/> 
+  <img src="img/33.png"/>
+  <img src="img/44.png"/> 
 </p>
 </div>
 
