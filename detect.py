@@ -136,8 +136,8 @@ class ThreadClass(QtCore.QThread):
                                     if self.sms_send == True:
                                         self.sms_send = False
                                         print('Sending SMS!')
-                                        #sms_thread = Thread(target = send_sms)
-                                        #sms_thread.start()                                    
+                                        sms_thread = Thread(target = send_sms)
+                                        sms_thread.start()                                    
 
                     print(class_names)
                     #print(f'{s}Done. ({(1E3 * (t2 - t1)):.1f}ms) Inference, ({(1E3 * (t3 - t2)):.1f}ms) NMS')
